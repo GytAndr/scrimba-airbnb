@@ -1,20 +1,22 @@
 import "./Card.css";
-import image from "../images/swimmer.png";
 import star from "../images/star.png";
 
-export default function Card() {
+export default function Card(props) {
 	return (
 		<div className="card">
-			<img className="card--image" src={image} />
+			<img
+				className="card--image"
+				src={require("../images/" + props.img + ".png")}
+			/>
 			<div className="card--stats">
 				<img className="card--star" src={star} />
-				<span>5.0</span>
-				<span className="grey">(6) • </span>
-				<span className="grey">USA</span>
+				<span>{props.rating}</span>
+				<span className="grey"> ({props.reviewCount}) • </span>
+				<span className="grey">{props.country}</span>
 			</div>
-			<p>Life Lessons with Katie Zaferes</p>
+			<p>{props.title}</p>
 			<p>
-				<span className="bold">From $136</span> / person
+				<span className="bold">From ${props.price}</span> / person
 			</p>
 		</div>
 	);
