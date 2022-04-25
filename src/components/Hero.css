@@ -1,0 +1,24 @@
+.hero-container {
+    width: 550px;
+}
+.hero--image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 26px 77px ;
+}
+.hero--image img {
+    height: 232px;
+}
+.hero-text {
+    padding: 6px 36px;
+}
+.hero-text h1 {
+    font-size: 36px;
+    margin: 0;
+    font-weight: 600;
+}
+.hero-text p {
+    font-weight: 300;
+    width: 320px;
+}

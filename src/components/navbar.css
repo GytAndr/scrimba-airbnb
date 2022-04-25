@@ -1,0 +1,14 @@
+.navbar {
+    height: 70px;
+    width: 550px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+
+}
+.navbar--logo {
+    height: 25px;
+    margin-left: 30px;
+}
