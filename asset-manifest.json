@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/scrimba-airbnb/static/css/main.7d3aae48.css",
+    "main.js": "/scrimba-airbnb/static/js/main.ab0a2bb6.js",
+    "static/media/grid.png": "/scrimba-airbnb/static/media/grid.8f80300d4cddb242d9cd.png",
+    "static/media/mountain-bike.png": "/scrimba-airbnb/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/katie-zaferes.png": "/scrimba-airbnb/static/media/katie-zaferes.4dcb2224d553ccd977a4.png",
+    "static/media/wedding-photography.png": "/scrimba-airbnb/static/media/wedding-photography.de6d8e47cc4f6902350d.png",
+    "index.html": "/scrimba-airbnb/index.html",
+    "main.7d3aae48.css.map": "/scrimba-airbnb/static/css/main.7d3aae48.css.map",
+    "main.ab0a2bb6.js.map": "/scrimba-airbnb/static/js/main.ab0a2bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d3aae48.css",
+    "static/js/main.ab0a2bb6.js"
+  ]
+}
