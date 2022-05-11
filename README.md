@@ -6,3 +6,5 @@ Figma file https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?
 learned to pass props, conditional rendering.
 
 date 27/04/2022
+
+GitHub pages URL https://gytandr.github.io/scrimba-airbnb/
